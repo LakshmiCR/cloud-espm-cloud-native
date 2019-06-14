@@ -1,7 +1,6 @@
   # Enterprise Sales and Procurement Model (ESPM) Cloud Native
 
 
-
   ## Description
 
   Enterprise Sales and Procurement Model (ESPM) Cloud Native is reference application to showcase how resilience patterns can be implemented in a Cloud Native application. It is built based on microservices architecture principles. Each microservice is built as a [Spring Boot](https://spring.io/projects/spring-boot) application. The current scope of the application showcases the below resilience patterns
